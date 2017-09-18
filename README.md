@@ -1,2 +1,2 @@
 # hello-world
-Just an another repository
+I like Android. This file is for testing purpose.
